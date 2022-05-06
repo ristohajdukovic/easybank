@@ -1,0 +1,12 @@
+.attribution {
+
+    background-color: $lightGrayishBlue;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    transition: color 200ms ease-in-out;
+
+
+    a:hover {
+        color: $limeGreen;
+    }
+}
